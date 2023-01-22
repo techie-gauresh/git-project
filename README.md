@@ -1,8 +1,12 @@
 # git-project
 This is git repository
 #### Git commands
+```
 > `git clone <https://name-of-the-repository-link>` - copy project in local
+```
+```
 > `git branch <branch-name>` - create branch in local
+```
 > `git branch <branch-name>` - create branch in local
 > `git push -u <remote> <branch-name>` - push branch in remote repository
 > `git branch or git branch --list` - view branches
