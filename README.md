@@ -21,5 +21,3 @@ This is git repository
 * `git fetch` - before merging update local branch
 * `git merge <branch-name>` - merge another branch changes in current branch
 
-
-
