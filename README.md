@@ -1,7 +1,6 @@
 # git-project
 This is git repository
 ### Git commands
-```
 * `git clone <https://name-of-the-repository-link>` - copy project in local
 * `git branch <branch-name>` - create branch in local
 * `git branch <branch-name>` - create branch in local
@@ -21,6 +20,6 @@ This is git repository
 * `git revert <logid>` - revert changes till log id
 * `git fetch` - before merging update local branch
 * `git merge <branch-name>` - merge another branch changes in current branch
-```
+
 
 
